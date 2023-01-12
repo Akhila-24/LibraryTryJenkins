@@ -1,3 +1,3 @@
-def welcome(){
+def call(){
     print("hello oeople")
     }
